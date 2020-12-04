@@ -1,4 +1,5 @@
 # https://adventofcode.com/2019/day/1
+
 import math
 
 input = open('input').read().splitlines()
